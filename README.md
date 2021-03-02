@@ -5,7 +5,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/HSE-CS/tp-lab-7)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/HSE-CS/tp-lab-7)
 
-![Relative date](https://img.shields.io/date/1616187599)
+![Relative date](https://img.shields.io/date/1616792399)
 
 ### Задание
 
